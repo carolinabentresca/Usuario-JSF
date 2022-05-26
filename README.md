@@ -1,6 +1,6 @@
-
-## Proyecto Java Web / Implementando JSF
-### Login - Registro  (Con Bases de datos)
+### JSF
+- #### Proyecto Java Web / Implementando JSF
+- #### Login - Registro  (Con Base de datos)
 
 ![Inicio Sesión - Internet Explorer 22_2_2022 19_36_42](https://user-images.githubusercontent.com/88462536/155233034-4c079f6e-ce93-4239-820d-663d2eb915e3.png)
 
